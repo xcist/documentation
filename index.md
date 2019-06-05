@@ -1,4 +1,4 @@
-# Welcome to XCIST: X-ray-based Cancer Imaging Toolkit
+## Welcome to XCIST: X-ray-based Cancer Imaging Toolkit
 
 XCIST will provide the ability to simulate X-ray/CT images of virtual patients (with or without tumors). These images will accurately represent images that would be produced by a real scanner.
 
@@ -7,12 +7,12 @@ XCIST will include three primary groups of components:
 - Imaging subjects (phantoms) including geometric objects and numerical anthropomorphic phantoms (virtual patients) with or without tumors
 - Image reconstruction
 
-## [Usage Overview](https://github.com/xcist/github.io/blob/master/UsageOverview.md)
+### [Usage Overview](https://github.com/xcist/github.io/UsageOverview.md)
 
-## [Developers](https://github.com/xcist/github.io/blob/master/Developers.md)
+### [Developers](https://github.com/xcist/github.io/Developers.md)
 
-## [Support](https://github.com/xcist/github.io/blob/master/Supports.md)
+### [Support](https://github.com/xcist/github.io/Supports.md)
 
-## [Citing XCIST](https://github.com/xcist/github.io/blob/master/CitingXCIST.md)
+### [Citing XCIST](https://github.com/xcist/github.io/CitingXCIST.md)
 
-## [License](https://github.com/xcist/code/master/License.md)
+### [License](https://github.com/xcist/code/License.md)
