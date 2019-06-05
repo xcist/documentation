@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+Welcome to XCIST: X-ray-based Cancer Imaging Toolkit
+XCIST will provide the ability to simulate X-ray/CT images of virtual patients (with or without tumors). These images will accurately represent images that would be produced by a real scanner.
 
-You can use the [editor on GitHub](https://github.com/xcist/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+XCIST will include three primary groups of components:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simulation components, including physics-based models of scanner hardware and physical processes
+Imaging subjects (phantoms) including geometric objects and numerical anthropomorphic phantoms (virtual patients) with or without tumors
+Image reconstruction
+XCIST will be downloadable as a straighforward, ready-to-use, GUI-driven Python application that will run under both Linux and Windows. (The compute-intensive work will be done in run-time-linked binary libraries.) To perform a simulation, users will need to have Python installed. Then, using either our GUI or simple configuration files, you will simply need to
 
-### Markdown
+Select an imaging system configuration from a pre-defined standard system with or without variations based on several available component models (or advanced users can develop their own models).
+Select a scan protocol from several pre-defined protocols and multiple user-selectable variations such as kVp, mA, rotation time, focal spot, bowtie, etc.
+Select simulation options from several pre-defined configurations and multiple user-selectable variations including oversampling, with or without quantum and/or electronic noise, etc.
+Select a subject to be scanned (i.e a numerical phantom) from a rich library of geometric phantoms and virtual patient models with and without tumors (or advanced users can develop their own phantoms).
+Select a reconstruction algorithm from several pre-defined options (or advanced users can develop their own reconstruction).
+Launch your simulation.
+Review the results! (available as simple binary files and/or in DICOM format)
+The standard components are being developed by:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Simulation and validation - GE Research
+Bruno De Man (Principle Investigator)
+Mingye Wu
+Brion Sarachan
+Paul FitzGerald
+Anthropomorphic numerical phantoms - Duke University
+Paul Segars
+Ehsan Samei
+Image reconstruction - UMass Lowell
+Hengyong Yu
+You are invited to join our project! The code repository is here.
 
-```markdown
-Syntax highlighted code block
+This open-access project is supported by the National Cancer Institute of the National Institutes of Health under Award Number U01CA231860.
 
-# Header 1
-## Header 2
-### Header 3
+The authors request that any publications that rely on this project should cite the project by referencing DOI (the DOI for this project) or a relevant publication found on ResearchGate.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xcist/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
