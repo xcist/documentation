@@ -7,7 +7,7 @@ XCIST will include three primary groups of components:
 - Imaging subjects (phantoms) including geometric objects and numerical anthropomorphic phantoms (virtual patients) with or without tumors
 - Image reconstruction
 
-[Usage Overview](https://github.com/xcist/github.io/blob/master/UsageOverview.md)
+[Usage Overview](https://github.com/xcist/github.io/UsageOverview.md)
 XCIST will be downloadable as a straighforward, ready-to-use, GUI-driven Python application that will run under both Linux and Windows. (The compute-intensive work will be done in run-time-linked binary libraries.) To perform a simulation, users will need to have Python installed. Then, using either our GUI or simple configuration files, you will simply need to
 1. Select an imaging system configuration from a pre-defined standard system with or without variations based on several available component models (or advanced users can develop their own models).
 2. Select a scan protocol from several pre-defined protocols and multiple user-selectable variations such as kVp, mA, rotation time, focal spot, bowtie, etc.
