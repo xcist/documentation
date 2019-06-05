@@ -11,4 +11,4 @@ The standard components are being developed by:
 * Image reconstruction - UMass Lowell
   - [Hengyong Yu](https://www.uml.edu/engineering/electrical-computer/faculty/yu-hengyong.aspx)
   
-You are invited to join our project! The code repository is [here](https://github.com/PaulFitzGerald/practice).
+**You are invited to join our project! The code repository is [here](https://github.com/xcist/code).**
