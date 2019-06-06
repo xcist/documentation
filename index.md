@@ -15,4 +15,4 @@ XCIST will include three primary groups of components:
 
 ### [Citing XCIST](https://github.com/xcist/github.io/CitingXCIST.md)
 
-### [License](https://github.com/xcist/code/License.md)
+### [License](https://github.com/xcist/code/blob/master/License.md)
