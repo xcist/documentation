@@ -7,7 +7,7 @@ XCIST will include three primary groups of components:
 - Imaging subjects (phantoms) including geometric objects and numerical anthropomorphic phantoms (virtual patients) with or without tumors
 - Image reconstruction
 
-### [Usage Overview](Usage-Overview)
+### [Usage Overview](Usage-Overview.md)
 
 ### [Developers](Developers)
 
