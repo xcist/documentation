@@ -18,3 +18,5 @@ XCIST will include three primary groups of components:
 ### [Copyright and License](https://github.com/xcist/code/blob/master/LICENSE)
 
 ### [Documentation](Documentation.md)
+
+### [Subscribe to our blog!](Subscribe to our blog.md)
