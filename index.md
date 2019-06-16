@@ -13,8 +13,8 @@ XCIST will include three primary groups of components:
 
 ### [Funding](Funding.md)
 
-### [Publications about XCIST and citing XCIST](Publications-about-XCIST-and-citing-XCIST)
+### [Publications about XCIST and citing XCIST](Publications-about-XCIST-and-citing-XCIST.md)
 
 ### [Copyright and License](https://github.com/xcist/code/blob/master/LICENSE)
 
-### [Documentation](Documentation)
+### [Documentation](Documentation.md)
