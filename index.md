@@ -9,9 +9,9 @@ XCIST will include three primary groups of components:
 
 ### [Usage Overview](Usage-Overview.md)
 
-### [Developers](Developers)
+### [Developers](Developers.md)
 
-### [Funding](Funding)
+### [Funding](Funding.md)
 
 ### [Publications about XCIST and citing XCIST](Publications-about-XCIST-and-citing-XCIST)
 
