@@ -19,4 +19,4 @@ XCIST will include three primary groups of components:
 
 ### [Documentation](Documentation.md)
 
-### [Subscribe to our blog!](Subscribe to our blog.md)
+### [Subscribe to our blog!](Subscribe-to-our-blog.md)
