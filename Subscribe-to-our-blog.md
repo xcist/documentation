@@ -1,5 +1,5 @@
 # Our blog
 
-We will make periodic announcements about our progress [here](https://github.com/xcist/documentation/_posts).
+We will make periodic announcements about our progress [here](https://github.com/xcist/documentation/tree/master/_posts).
 
-To "subscribe", simply "watch" that folder for updates.
+To "subscribe", simply "watch" this repository for updates.
