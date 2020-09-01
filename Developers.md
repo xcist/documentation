@@ -1,7 +1,7 @@
 # Developers
 The standard components are being developed by:
 * **Simulation and validation** - *GE Research*
-  - [Bruno De Man (Principle Investigator)](https://www.ge.com/research/people/bruno-de-man)
+  - [Bruno De Man (Principal Investigator)](https://www.ge.com/research/people/bruno-de-man)
   - [Mingye Wu](https://www.ge.com/research/people/mingye-wu)
   - [Brion Sarachan](https://www.ge.com/research/people/brion-sarachan)
   - [Paul FitzGerald](https://www.ge.com/research/people/paul-fitzgerald)
