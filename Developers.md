@@ -11,5 +11,7 @@ The standard components are being developed by:
   - [Ehsan Samei](https://radiology.duke.edu/faculty/ehsan-samei-phd/)
 * **Image reconstruction** - *UMass Lowell*
   - [Hengyong Yu](https://www.uml.edu/engineering/electrical-computer/faculty/yu-hengyong.aspx)
+* **Flat-panel-based system models** - *Johns Hopkins University*
+  - [Webster Stayman](https://www.bme.jhu.edu/faculty_staff/j-webster-stayman-phd/)
   
 **You are invited to join our project! The code repository is [here](https://github.com/xcist/code).**
